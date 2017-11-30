@@ -33,6 +33,11 @@ class Calc {
 				# code...
 				$result = $this->num1 * $this->num2;
 				break;
+
+			case 'divi':
+				# code...
+				$result = $this->num1 / $this->num2;
+				break;
 				
 			
 			default:
